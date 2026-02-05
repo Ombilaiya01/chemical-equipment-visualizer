@@ -253,25 +253,3 @@ Contributions are welcome! Please:
 4. Push to the branch
 5. Open a Pull Request
 
-## 📄 License
-
-This project is created for educational purposes.
-
-## 👥 Authors
-
-Your Name - Intern Screening Task
-
-## 🙏 Acknowledgments
-
-- Django REST Framework documentation
-- React documentation
-- PyQt5 documentation
-- Chart.js and Matplotlib communities
-
-## 📞 Support
-
-For issues and questions, please create an issue in the GitHub repository.
-
----
-
-Made with ❤️ for Chemical Equipment Analysis
