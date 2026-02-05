@@ -1,0 +1,26 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Reactor-A1,Reactor,150.5,25.3,180.2
+Pump-B2,Pump,200.0,40.5,85.0
+Heat Exchanger-C3,Heat Exchanger,180.3,30.2,220.5
+Distillation Column-D4,Column,160.0,28.5,195.0
+Compressor-E5,Compressor,220.5,50.0,120.0
+Reactor-A2,Reactor,155.0,26.0,185.0
+Pump-B3,Pump,195.0,38.0,82.5
+Heat Exchanger-C4,Heat Exchanger,175.0,29.5,215.0
+Storage Tank-F6,Tank,100.0,10.5,25.0
+Separator-G7,Separator,140.0,22.0,150.0
+Mixer-H8,Mixer,130.0,18.5,95.0
+Filter-I9,Filter,110.0,15.0,70.0
+Dryer-J10,Dryer,90.0,12.0,200.0
+Crystallizer-K11,Crystallizer,120.0,20.0,160.0
+Evaporator-L12,Evaporator,170.0,32.0,210.0
+Reactor-A3,Reactor,148.0,24.5,178.0
+Pump-B4,Pump,205.0,42.0,88.0
+Compressor-E6,Compressor,215.0,48.5,115.0
+Heat Exchanger-C5,Heat Exchanger,182.0,31.0,225.0
+Column-D5,Column,165.0,29.0,198.0
+Tank-F7,Tank,105.0,11.0,28.0
+Separator-G8,Separator,145.0,23.5,155.0
+Mixer-H9,Mixer,135.0,19.0,98.0
+Filter-I10,Filter,115.0,16.0,72.0
+Dryer-J11,Dryer,95.0,13.0,205.0
