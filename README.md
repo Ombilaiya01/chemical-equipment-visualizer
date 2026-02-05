@@ -217,39 +217,3 @@ npm run build
 # Serve build folder with any static server
 # Or deploy to Vercel, Netlify, etc.
 ```
-
-## 🐛 Troubleshooting
-
-### CORS Issues
-If you encounter CORS errors, ensure `django-cors-headers` is properly configured in `settings.py`.
-
-### Port Conflicts
-- Backend: Change port with `python manage.py runserver 8080`
-- Frontend: Change port with `PORT=3001 npm start`
-
-### Connection Refused
-- Ensure backend is running before starting frontends
-- Check firewall settings
-- Verify `API_URL` in frontend code
-
-## 📝 Testing
-
-### Backend
-```bash
-python manage.py test
-```
-
-### Web Frontend
-```bash
-npm test
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
